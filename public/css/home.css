@@ -1,0 +1,56 @@
+.amp {
+  font-family: baskerville;
+  font-style: italic;
+}
+
+
+header.h-event {
+  color: white;
+  background: #00C400;
+  text-align: center;
+  min-height: 40rem;
+  height: 100%;
+}
+
+header.h-event .p-name {
+  font-size: 5rem;
+  font-weight: normal;
+  font-weight: 500;
+  letter-spacing: -.05em;
+  margin: 0;
+}
+
+header.h-event .p-summary {
+  font-size: 3rem;
+  font-weight: normal;
+  font-weight: 500;
+  margin: 0;
+}
+
+header.h-event .p-location {
+  font-size: 2rem;
+  font-weight: normal;
+  font-weight: 200;
+  margin: 3rem 0 0 0;
+}
+
+.social-links {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.social-links li {
+  display: inline-block;
+  margin-bottom: .25rem;
+}
+
+footer.h-card {
+  margin: 4rem 0;
+  text-align: center;
+}
+
+footer.h-card .u-email {
+  display: inline-block;
+  margin-top: 1rem;
+}
