@@ -34,15 +34,8 @@ header.h-event .p-location {
   margin: 3rem 0 0 0;
 }
 
-.social-links {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-}
-
-.social-links li {
-  display: inline-block;
-  margin-bottom: .25rem;
+main {
+  margin: 4rem 0;
 }
 
 footer.h-card {
@@ -53,4 +46,15 @@ footer.h-card {
 footer.h-card .u-email {
   display: inline-block;
   margin-top: 1rem;
+}
+
+.social-links {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.social-links li {
+  display: inline-block;
+  margin-bottom: .25rem;
 }
